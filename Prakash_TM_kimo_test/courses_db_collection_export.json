@@ -1,0 +1,922 @@
+[{
+  "_id": {
+    "$oid": "646899ff2a792a8729706dce"
+  },
+  "name": "Highlights of Calculus",
+  "date": {
+    "$date": {
+      "$numberLong": "1530133200"
+    }
+  },
+  "isAvailable": true,
+  "description": "Highlights of Calculus is a series of short videos that introduces the basic ideas of calculus — how it works and why it is important. The intended audience is high school students, college students, or anyone who might need help understanding the subject.\nIn addition to the videos, there are summary slides and practice problems complete with an audio narration by Professor Strang. You can find these resources to the right of each video.",
+  "domain": [
+    "mathematics"
+  ],
+  "chapters": [
+    {
+      "name": "Gil Strang's Introduction to Calculus for Highlights for High School",
+      "text": "Highlights of Calculus",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dcf"
+      }
+    },
+    {
+      "name": "Big Picture of Calculus",
+      "text": "Highlights of Calculus",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dd0"
+      }
+    },
+    {
+      "name": "Big Picture: Derivatives",
+      "text": "Highlights of Calculus",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dd1"
+      }
+    },
+    {
+      "name": "Max and Min and Second Derivative",
+      "text": "Highlights of Calculus",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dd2"
+      }
+    },
+    {
+      "name": "The Exponential Function",
+      "text": "Highlights of Calculus",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dd3"
+      }
+    },
+    {
+      "name": "Big Picture: Integrals",
+      "text": "Highlights of Calculus",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dd4"
+      }
+    },
+    {
+      "name": "Derivative of sin x and cos x",
+      "text": "Highlights of Calculus",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dd5"
+      }
+    },
+    {
+      "name": "Product Rule and Quotient Rule",
+      "text": "Highlights of Calculus",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dd6"
+      }
+    },
+    {
+      "name": "Chains f(g(x)) and the Chain Rule",
+      "text": "Highlights of Calculus",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dd7"
+      }
+    },
+    {
+      "name": "Limits and Continuous Functions",
+      "text": "Highlights of Calculus",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dd8"
+      }
+    },
+    {
+      "name": "Inverse Functions f ^-1 (y) and the Logarithm x = ln y",
+      "text": "Highlights of Calculus",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dd9"
+      }
+    },
+    {
+      "name": "Derivatives of ln y and sin ^-1 (y)",
+      "text": "Highlights of Calculus",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dda"
+      }
+    },
+    {
+      "name": "Growth Rate and Log Graphs",
+      "text": "Highlights of Calculus",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706ddb"
+      }
+    },
+    {
+      "name": "Linear Approximation/Newton's Method",
+      "text": "Highlights of Calculus",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706ddc"
+      }
+    },
+    {
+      "name": "Power Series/Euler's Great Formula",
+      "text": "Highlights of Calculus",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706ddd"
+      }
+    },
+    {
+      "name": "Differential Equations of Motion",
+      "text": "Highlights of Calculus",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dde"
+      }
+    },
+    {
+      "name": "Differential Equations of Growth",
+      "text": "Highlights of Calculus",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706ddf"
+      }
+    },
+    {
+      "name": "Six Functions, Six Rules, and Six Theorems",
+      "text": "Highlights of Calculus",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706de0"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684576767406"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684576767406"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "646899ff2a792a8729706de1"
+  },
+  "name": "Introduction to Programming",
+  "date": {
+    "$date": {
+      "$numberLong": "1659906000"
+    }
+  },
+  "isAvailable": true,
+  "description": "An introduction to programming using a language called Python. Learn how to read and write code as well as how to test and \"debug\" it. Designed for students with or without prior programming experience who'd like to learn Python specifically. Learn about functions, arguments, and return values (oh my!); variables and types; conditionals and Boolean expressions; and loops. Learn how to handle exceptions, find and fix bugs, and write unit tests; use third-party libraries; validate and extract data with regular expressions; model real-world entities with classes, objects, methods, and properties; and read and write files. Hands-on opportunities for lots of practice. Exercises inspired by real-world programming problems. No software required except for a web browser, or you can write code on your own PC or Mac.",
+  "domain": [
+    "programming"
+  ],
+  "chapters": [
+    {
+      "name": "This is CS50x 2022, now in 4K HDR",
+      "text": "Introduction to Programming",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706de2"
+      }
+    },
+    {
+      "name": "CS50 2021 in HDR - Lecture 0 - Scratch",
+      "text": "Introduction to Programming",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706de3"
+      }
+    },
+    {
+      "name": "CS50 2021 in HDR - Lecture 1 - C",
+      "text": "Introduction to Programming",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706de4"
+      }
+    },
+    {
+      "name": "CS50 2021 in HDR - Lecture 2 - Arrays",
+      "text": "Introduction to Programming",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706de5"
+      }
+    },
+    {
+      "name": "CS50 2021 in HDR - Lecture 3 - Algorithms",
+      "text": "Introduction to Programming",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706de6"
+      }
+    },
+    {
+      "name": "CS50 2021 in HDR - Lecture 4 - Memory",
+      "text": "Introduction to Programming",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706de7"
+      }
+    },
+    {
+      "name": "CS50 2021 in HDR - Lecture 5 - Data Structures",
+      "text": "Introduction to Programming",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706de8"
+      }
+    },
+    {
+      "name": "CS50 2021 in HDR - Lecture 6 - Python",
+      "text": "Introduction to Programming",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706de9"
+      }
+    },
+    {
+      "name": "CS50 2021 in HDR - Lecture 7 - SQL",
+      "text": "Introduction to Programming",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dea"
+      }
+    },
+    {
+      "name": "CS50 2021 in HDR - Cybersecurity",
+      "text": "Introduction to Programming",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706deb"
+      }
+    },
+    {
+      "name": "CS50 2021 in HDR - Lecture 8 - HTML, CSS, JavaScript",
+      "text": "Introduction to Programming",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dec"
+      }
+    },
+    {
+      "name": "CS50 2021 in HDR - Lecture 9 - Flask",
+      "text": "Introduction to Programming",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706ded"
+      }
+    },
+    {
+      "name": "CS50 2021 in HDR - Lecture 10 - Emoji",
+      "text": "Introduction to Programming",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dee"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684576767413"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684576767413"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "646899ff2a792a8729706def"
+  },
+  "name": "Computer Vision Course",
+  "date": {
+    "$date": {
+      "$numberLong": "1502398800"
+    }
+  },
+  "isAvailable": true,
+  "description": "Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification, localization and detection. Recent developments in neural network (aka “deep learning”) approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This lecture collection is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. From this course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision.\n",
+  "domain": [
+    "computer vision",
+    "artificial intelligence"
+  ],
+  "chapters": [
+    {
+      "name": "Introduction to Convolutional Neural Networks for Visual Recognition",
+      "text": "Computer Vision Course. CS231n L1 History of computer vision",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706df0"
+      }
+    },
+    {
+      "name": "Image Classification",
+      "text": "Computer Vision Course",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706df1"
+      }
+    },
+    {
+      "name": "Loss Functions and Optimization",
+      "text": "Computer Vision Course. CS231n L3 Regularization and optimization",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706df2"
+      }
+    },
+    {
+      "name": "Introduction to Neural Networks",
+      "text": "Computer Vision Course. CS231n L4 Neural networks and backpropagation",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706df3"
+      }
+    },
+    {
+      "name": "Convolutional Neural Networks",
+      "text": "Computer Vision Course",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706df4"
+      }
+    },
+    {
+      "name": "Training Neural Networks I",
+      "text": "Computer Vision Course. CS231n L6 CNN architectures",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706df5"
+      }
+    },
+    {
+      "name": "Training Neural Networks II",
+      "text": "Computer Vision Course. CS231n L7 Training neural networks",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706df6"
+      }
+    },
+    {
+      "name": "Deep Learning Software",
+      "text": "Computer Vision Course. CS231n L8 Visualizing and understanding",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706df7"
+      }
+    },
+    {
+      "name": "Recurrent Neural Networks",
+      "text": "Computer Vision Course. CS231n L9 Object detection and image segmentation",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706df8"
+      }
+    },
+    {
+      "name": "CNN Architectures",
+      "text": "Computer Vision Course. CS231n L10 Recurrent neural networks",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706df9"
+      }
+    },
+    {
+      "name": "Detection and Segmentation",
+      "text": "Computer Vision Course. CS231n L11 Attention and transformers",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dfa"
+      }
+    },
+    {
+      "name": "Detection and Segmentation",
+      "text": "Computer Vision Course. CS231n L12 Video understanding",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dfb"
+      }
+    },
+    {
+      "name": "Visualizing and Understanding",
+      "text": "Computer Vision Course. CS231n L13 Generative models",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dfc"
+      }
+    },
+    {
+      "name": "Generative Models",
+      "text": "Computer Vision Course. CS231n L14 Self-supervised learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dfd"
+      }
+    },
+    {
+      "name": "Deep Reinforcement Learning",
+      "text": "Computer Vision Course",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dfe"
+      }
+    },
+    {
+      "name": "Efficient Methods and Hardware for Deep Learning",
+      "text": "Computer Vision Course",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706dff"
+      }
+    },
+    {
+      "name": "Adversarial Examples and Adversarial Training",
+      "text": "Computer Vision Course",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e00"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684576767414"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684576767414"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "646899ff2a792a8729706e01"
+  },
+  "name": "Introduction to Deep Learning",
+  "date": {
+    "$date": {
+      "$numberLong": "1653512400"
+    }
+  },
+  "isAvailable": true,
+  "description": "Course lectures for MIT Introduction to Deep Learning.",
+  "domain": [
+    "artificial intelligence"
+  ],
+  "chapters": [
+    {
+      "name": "MIT Introduction to Deep Learning",
+      "text": "Introduction to Deep Learning. Deep Learning Lesson 1",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e02"
+      }
+    },
+    {
+      "name": "Recurrent Neural Networks and Transformers",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e03"
+      }
+    },
+    {
+      "name": "Convolutional Neural Networks",
+      "text": "Introduction to Deep Learning. Deep Learning Lesson 3",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e04"
+      }
+    },
+    {
+      "name": "Deep Generative Modeling",
+      "text": "Introduction to Deep Learning. Deep Learning Lesson 4",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e05"
+      }
+    },
+    {
+      "name": "Reinforcement Learning",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e06"
+      }
+    },
+    {
+      "name": "Deep Learning New Frontiers",
+      "text": "Introduction to Deep Learning. Deep Learning Lesson 6",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e07"
+      }
+    },
+    {
+      "name": "LiDAR for Autonomous Driving",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e08"
+      }
+    },
+    {
+      "name": "Automatic Speech Recognition",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e09"
+      }
+    },
+    {
+      "name": "AI for Science",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e0a"
+      }
+    },
+    {
+      "name": "Uncertainty in Deep Learning",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e0b"
+      }
+    },
+    {
+      "name": "Introduction to Deep Learning",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e0c"
+      }
+    },
+    {
+      "name": "Recurrent Neural Networks",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e0d"
+      }
+    },
+    {
+      "name": "Convolutional Neural Networks",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e0e"
+      }
+    },
+    {
+      "name": "Deep Generative Modeling",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e0f"
+      }
+    },
+    {
+      "name": "Reinforcement Learning",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e10"
+      }
+    },
+    {
+      "name": "Deep Learning New Frontiers",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e11"
+      }
+    },
+    {
+      "name": "Evidential Deep Learning and Uncertainty",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e12"
+      }
+    },
+    {
+      "name": "AI Bias and Fairness",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e13"
+      }
+    },
+    {
+      "name": "Deep CPCFG for Information Extraction",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e14"
+      }
+    },
+    {
+      "name": "Taming Dataset Bias via Domain Adaptation",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e15"
+      }
+    },
+    {
+      "name": "Towards AI for 3D Content Creation",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e16"
+      }
+    },
+    {
+      "name": "AI in Healthcare",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e17"
+      }
+    },
+    {
+      "name": "Introduction to Deep Learning",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e18"
+      }
+    },
+    {
+      "name": "Recurrent Neural Networks",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e19"
+      }
+    },
+    {
+      "name": "Convolutional Neural Networks",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e1a"
+      }
+    },
+    {
+      "name": "Deep Generative Modeling",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e1b"
+      }
+    },
+    {
+      "name": "Reinforcement Learning",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e1c"
+      }
+    },
+    {
+      "name": "Deep Learning New Frontiers",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e1d"
+      }
+    },
+    {
+      "name": "Neurosymbolic AI",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e1e"
+      }
+    },
+    {
+      "name": "Generalizable Autonomy for Robot Manipulation",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e1f"
+      }
+    },
+    {
+      "name": "Neural Rendering",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e20"
+      }
+    },
+    {
+      "name": "Machine Learning for Scent",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e21"
+      }
+    },
+    {
+      "name": "Intro to Deep Learning | MIT 6.S191",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e22"
+      }
+    },
+    {
+      "name": "Introduction to Deep Learning",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e23"
+      }
+    },
+    {
+      "name": "Recurrent Neural Networks",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e24"
+      }
+    },
+    {
+      "name": "Convolutional Neural Networks",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e25"
+      }
+    },
+    {
+      "name": "Deep Generative Modeling",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e26"
+      }
+    },
+    {
+      "name": "Deep Reinforcement Learning",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e27"
+      }
+    },
+    {
+      "name": "Deep Learning Limitations and New Frontiers",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e28"
+      }
+    },
+    {
+      "name": "Visualization for Machine Learning (Google Brain)",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e29"
+      }
+    },
+    {
+      "name": "Biologically Inspired Neural Networks (IBM)",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e2a"
+      }
+    },
+    {
+      "name": "Image Domain Transfer (NVIDIA)",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e2b"
+      }
+    },
+    {
+      "name": "Introduction to Deep Learning",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e2c"
+      }
+    },
+    {
+      "name": "Sequence Modeling with Neural Networks",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e2d"
+      }
+    },
+    {
+      "name": "Convolutional Neural Networks",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e2e"
+      }
+    },
+    {
+      "name": "Deep Generative Modeling",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e2f"
+      }
+    },
+    {
+      "name": "Deep Reinforcement Learning",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e30"
+      }
+    },
+    {
+      "name": "Deep Learning Limitations and New Frontiers",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e31"
+      }
+    },
+    {
+      "name": "Issues in Image Classification",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e32"
+      }
+    },
+    {
+      "name": "Faster ML Development with TensorFlow",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e33"
+      }
+    },
+    {
+      "name": "Deep Learning - A Personal Perspective",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e34"
+      }
+    },
+    {
+      "name": "Learning+Reasoning",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e35"
+      }
+    },
+    {
+      "name": "Computer Vision Meets Social Networks",
+      "text": "Introduction to Deep Learning",
+      "ratings": [],
+      "_id": {
+        "$oid": "646899ff2a792a8729706e36"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1684576767417"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1684576767417"
+    }
+  }
+}]
